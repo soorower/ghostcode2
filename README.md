@@ -1,1 +1,1 @@
-# ghostcode2
+# ghostcodes-auto-scrape
