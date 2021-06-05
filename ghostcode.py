@@ -20,7 +20,7 @@ headers = {
 }
 startTime = time.time()
 
-nam = 'places'
+nam = 'dance'
 df = pd.read_excel(f'ghostcoders_{nam}.xlsx')
 linka = df['links'].tolist()
 links = []
